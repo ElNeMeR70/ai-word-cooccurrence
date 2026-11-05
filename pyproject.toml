@@ -1,0 +1,4 @@
+[project]
+name = "ai-word-cooccurrence"
+version = "0.1.0"
+description = "Accumulates symmetric sliding-window token co-occurrence statistics for training GloVe/Skip-gram embeddings."
